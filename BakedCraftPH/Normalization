@@ -16,7 +16,7 @@ BakedCraftPH Database
 	Either the left-hand side of functional dependency is super key or the right-hand side points to a prime attribute).
 BCNF
 •	if it is 3NF. 
-•	For each functional dependency there must be a super key.
+•	For each non-trivial dependency x -> y.  x  must be a super key.
 Preserving Dependency Decomposition
 •	is another property of decomposed relational database schema D in which each functional dependency X -> Y specified 
 	in F either appeared directly in one of the relation schemas Ri in the decomposed D or could be inferred from the 
