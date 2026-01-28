@@ -12,8 +12,8 @@ TransactionHeader (
 
 JournalLines(
    JournalLinesid INT PK,
-   ChartTypesid INT FK,
-   TransactionHeaderid INT FK,
+   ChartTypesid INT FK REFERENCES ChartTypes(ChartTypesid),
+   TransactionHeaderid INT FK REFERENCES TransactionHeader(TransactionHeaderid),
    Journal Bit,
    Amount Decimal(12,2)
 )
