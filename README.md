@@ -49,14 +49,25 @@ Next: Kubernetes (for managing containers at scale).
 📅 Sample 6-Month Learning Plan
 Month	Focus	Activities
 Month 1	SQL & Database Design	Practice complex queries, design schemas, optimize performance.
+
 Month 2	ETL & Data Integration	Learn SSIS or Airflow. Build a simple ETL pipeline.
+
 Month 3	BI Tools (Power BI/Tableau)	Create dashboards, learn DAX, and visualize data.
+
 Month 4	Data Warehousing	Set up a cloud data warehouse (e.g., Snowflake).
+
 Month 5	Automation & Scripting	Learn Python for data automation.
+
 Month 6	Cloud & DevOps	Deploy a database on AWS/Azure. Learn Docker.
+
 🧭 Tips for Success
 Start small — Build a simple project (e.g., a database for a non-profit).
+
 Use free tools — Most tools have free tiers (Power BI, Tableau, AWS, Azure).
+
 Practice daily — Even 30 minutes of coding or learning helps.
+
 Join communities — Reddit (r/dataengineering, r/SQL), Stack Overflow, or LinkedIn groups.
+
 Build a portfolio — Showcase your projects (e.g., a dashboard, ETL pipeline, or database design).
+
