@@ -45,6 +45,7 @@ Practice: Automate data exports, clean data, and generate reports.
 6. Containers & Orchestration
 Start with: Docker (learn to containerize applications).
 Next: Kubernetes (for managing containers at scale).
+
 📅 Sample 6-Month Learning Plan
 Month	Focus	Activities
 Month 1	SQL & Database Design	Practice complex queries, design schemas, optimize performance.
